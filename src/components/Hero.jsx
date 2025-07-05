@@ -22,7 +22,7 @@ const Hero = () => {
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.7, ease: 'easeOut', delay: 0.3 }}
         >
-          <h1 className="text-4xl md:text-5xl font-bold">Hi, I'm Niloy Uthso</h1>
+          <h1 className="text-4xl md:text-5xl font-bold">Hi, I'm Niloy Sarkar Uthso</h1>
           <p className="py-4 text-xl text-primary font-semibold">MERN Stack Developer</p>
           <p className="max-w-md text-base-content">
             Passionate about building web applications with clean code and great user experiences.
