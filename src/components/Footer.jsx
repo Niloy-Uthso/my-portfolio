@@ -13,7 +13,7 @@ const handleScrollTo = (sectionId) => {
 
         {/* Branding */}
         <div>
-          <h2 className="text-xl font-bold mb-2">Niloy.dev</h2>
+          <h2 className="text-xl font-bold mb-2">NSU</h2>
           <p className="text-sm leading-relaxed">
             © {new Date().getFullYear()} Niloy Sarkar Uthso <br />
             Passionate MERN Stack Developer
