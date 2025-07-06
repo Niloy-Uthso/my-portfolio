@@ -29,7 +29,7 @@ const Hero = () => {
           </p>
 
           
-          <a href="Niloy Sarkar Uthso.pdf" download className="btn btn-primary mt-4">
+          <a href="https://drive.google.com/file/d/1z2toy8qURzl4eNwFEl89dVBJw-buZdpR/view?usp=drive_link" download className="btn btn-primary mt-4">
             Download Resume
           </a>
 
