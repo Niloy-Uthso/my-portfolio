@@ -29,7 +29,7 @@ const Hero = () => {
           </p>
 
           
-          <a href="/resume.pdf" download className="btn btn-primary mt-4">
+          <a href="Niloy Sarkar Uthso.pdf" download className="btn btn-primary mt-4">
             Download Resume
           </a>
 
