@@ -2,6 +2,11 @@ import { Link } from 'react-router';
 import { motion } from 'framer-motion';
 
 const projects = [
+   {
+    id: 'project4',
+    name: 'BondMate',
+    image: 'https://i.ibb.co/VdwsJw8/image.png',
+  },
   {
     id: 'project1',
     name: 'HobbyHub',

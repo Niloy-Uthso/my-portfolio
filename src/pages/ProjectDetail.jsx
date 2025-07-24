@@ -43,6 +43,21 @@ const projectDetails = {
     challenges: 'Implementing firebase authentication system',
     improvements: 'Add rating & review system for events,Real-time seat availability status',
   },
+   project4: {
+    name: 'BondMate',
+    stack: 'React, React Router, Tailwind CSS,React Hook Form, Axios, Recharts,Node.js, Express.js, MongoDB, Firebase Admin SDK, Stripe',
+    description: 'BondMate is a modern, full-stack matrimonial web application that helps people find meaningful connections and manage biodata profiles efficiently.',
+     images: [
+      'https://i.ibb.co/VdwsJw8/image.png',
+      'https://i.ibb.co/bRCqkwk4/image.png',
+      'https://i.ibb.co/4wnf3cvt/image.png',
+    ],
+    live: 'https://vermillion-buttercream-96884a.netlify.app/',
+    // github: 'https://github.com/Niloy-Uthso/Event-Explorer-repo',
+    challenges: 'Implementing role based dashboard and payment based premium role',
+    improvements: 'Real time chat and video calls',
+  },
+  
 };
 
 const ProjectDetail = () => {
