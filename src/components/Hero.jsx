@@ -27,9 +27,9 @@ const Hero = () => {
           <p className="max-w-md text-base-content">
             Passionate about building web applications with clean code and great user experiences.
           </p>
-
+ 
           
-          <a href="https://drive.google.com/file/d/1P71SDmaeWoK9ad2x2dWMAskrKeOZPEs9/view" download className="btn btn-primary mt-4">
+          <a href="https://drive.google.com/file/d/1G-g-dnkHidXJuKNqGmQ2oFunnKJQWFGH/view" download className="btn btn-primary mt-4">
             Download Resume
           </a>
 
