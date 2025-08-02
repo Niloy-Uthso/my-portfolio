@@ -53,7 +53,7 @@ const projectDetails = {
       'https://i.ibb.co/4wnf3cvt/image.png',
     ],
     live: 'https://vermillion-buttercream-96884a.netlify.app/',
-    // github: 'https://github.com/Niloy-Uthso/Event-Explorer-repo',
+    github: 'https://github.com/Niloy-Uthso/BondMate-Client-Side',
     challenges: 'Implementing role based dashboard and payment based premium role',
     improvements: 'Real time chat and video calls',
   },
