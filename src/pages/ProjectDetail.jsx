@@ -58,6 +58,21 @@ const projectDetails = {
     improvements: 'Real time chat and video calls',
   },
   
+   project5: {
+    name: 'BookSwap',
+    stack: 'React, React Router, Tailwind CSS,React Hook Form, Axios, Recharts,Node.js, Express.js, MongoDB, EmaiLJS',
+    description: 'Book Exchange is a full-stack MERN web platform that allows users to share, borrow, and exchange books within a community.',
+     images: [
+      'https://i.ibb.co.com/RGnZW7S3/Screenshot-2025-10-17-161031.png',
+      'https://i.ibb.co.com/GfYQWkfN/Screenshot-2025-10-17-160306.png',
+      'https://i.ibb.co.com/dsjwm96B/Screenshot-2025-10-17-160820.png',
+    ],
+    live: 'https://book-exchange-dd208.web.app/',
+    github: 'https://github.com/Niloy-Uthso/book-exchange',
+    challenges: 'Implementing book borrowing system and email notifications',
+    improvements: 'Real time chat and book condition reviews',
+  },
+  
 };
 
 const ProjectDetail = () => {

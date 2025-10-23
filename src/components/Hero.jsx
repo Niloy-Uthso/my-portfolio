@@ -29,7 +29,7 @@ const Hero = () => {
           </p>
  
           
-          <a href="https://drive.google.com/file/d/1G-g-dnkHidXJuKNqGmQ2oFunnKJQWFGH/view" download className="btn btn-primary mt-4">
+          <a href="https://drive.google.com/file/d/18plZn-7d43DZ5cM6R8o51-iFK89ZD80B/view?usp=drive_link" download className="btn btn-primary mt-4">
             Download Resume
           </a>
 

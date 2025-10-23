@@ -17,6 +17,11 @@ const projects = [
     name: 'Servico',
     image: 'https://i.ibb.co/s9NjMZkr/Screenshot-2025-06-30-023812.png',
   },
+   {
+    id: 'project5',
+    name: 'BookSwap',
+    image: 'https://i.ibb.co.com/RGnZW7S3/Screenshot-2025-10-17-161031.png',
+  },
   {
     id: 'project3',
     name: 'SocialSphere',
